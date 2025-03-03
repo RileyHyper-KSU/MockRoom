@@ -1,0 +1,14 @@
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\bin\Debug\net8.0\AMPTA_Regional_Tab.exe
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\bin\Debug\net8.0\AMPTA_Regional_Tab.deps.json
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\bin\Debug\net8.0\AMPTA_Regional_Tab.runtimeconfig.json
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\bin\Debug\net8.0\AMPTA_Regional_Tab.dll
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\bin\Debug\net8.0\AMPTA_Regional_Tab.pdb
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\obj\Debug\net8.0\AMPTA_Regional_Tab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\obj\Debug\net8.0\AMPTA_Regional_Tab.AssemblyInfoInputs.cache
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\obj\Debug\net8.0\AMPTA_Regional_Tab.AssemblyInfo.cs
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\obj\Debug\net8.0\AMPTA_Regional_Tab.csproj.CoreCompileInputs.cache
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\obj\Debug\net8.0\AMPTA_Regional_Tab.dll
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\obj\Debug\net8.0\refint\AMPTA_Regional_Tab.dll
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\obj\Debug\net8.0\AMPTA_Regional_Tab.pdb
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\obj\Debug\net8.0\AMPTA_Regional_Tab.genruntimeconfig.cache
+C:\Users\riley\source\repos\AMPTA_Regional_Tab\AMPTA_Regional_Tab\obj\Debug\net8.0\ref\AMPTA_Regional_Tab.dll
